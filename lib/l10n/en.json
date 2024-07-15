@@ -1,0 +1,22 @@
+{
+  "title": "Welcome to the innovation",
+  "menu": "Menu",
+  "home": "Home",
+  "signin": "Sign In",
+  "signup": "Sign Up",
+  "calculator": "Calculator",
+  "contacts": "Contacts",
+  "theme": "Theme",
+  "choose_theme": "Choose Theme",
+  "light": "Light",
+  "dark": "Dark",
+  "system": "System",
+  "no_contacts": "No contacts found",
+  "no_internet": "No Internet Connection",
+  "connected": "Connected to the Internet",
+  "user_name": "User Name",
+  "user_email": "user@example.com",
+  "select_image_source": "Select Image Source",
+  "gallery": "Gallery",
+  "camera": "Camera"
+}

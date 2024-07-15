@@ -1,0 +1,22 @@
+{
+  "title": "Bienvenido a la innovación",
+  "menu": "Menú",
+  "home": "Inicio",
+  "signin": "Iniciar sesión",
+  "signup": "Registrarse",
+  "calculator": "Calculadora",
+  "contacts": "Contactos",
+  "theme": "Tema",
+  "choose_theme": "Elegir tema",
+  "light": "Claro",
+  "dark": "Oscuro",
+  "system": "Sistema",
+  "no_contacts": "No se encontraron contactos",
+  "no_internet": "Sin conexión a Internet",
+  "connected": "Conectado a Internet",
+  "user_name": "Nombre de usuario",
+  "user_email": "usuario@ejemplo.com",
+  "select_image_source": "Seleccionar fuente de imagen",
+  "gallery": "Galería",
+  "camera": "Cámara"
+}
